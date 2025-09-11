@@ -4,13 +4,9 @@ Welcome to my Core Java Repository! ✨
 This repo contains all my Java concepts, programs, and practice sets that I’ve learned and implemented while building a strong foundation in Java. 💻☕
 
 📌 About This Repository
-
 🔹 Covers Core Java concepts from basics to advanced.
-
 🔹 Includes hands-on practice programs for better understanding.
-
 🔹 Well-structured and easy to navigate.
-
 🔹 Continuously updated as I learn & explore more. 🚀
 
 📂 Folder Structure
@@ -24,7 +20,6 @@ This repo contains all my Java concepts, programs, and practice sets that I’ve
  ┗ 📄 README.md
 
 ⚡ Topics Covered
-
 ✔️ Variables & Data Types
 ✔️ Control Statements (if-else, switch, loops)
 ✔️ OOPs Concepts 🔑
@@ -36,47 +31,28 @@ This repo contains all my Java concepts, programs, and practice sets that I’ve
 ✔️ Practice Programs & Mini Projects
 
 🎯 Purpose
-
 This repository is created to:
-
 📘 Document my Java learning journey.
-
 🧑‍💻 Practice & improve my coding skills.
-
 🤝 Share with others who are also learning Java.
 
 🛠️ Technologies Used
-
 ☕ Java (Core Java)
-
 🖥️ IDEs: IntelliJ IDEA / Eclipse / VS Code
 
 🚀 How to Run Programs
-
 Clone the repo:
-
 git clone https://github.com/username/Core-Java-Repository.git
-
-
 Open in your favorite IDE.
-
 Run the desired .java file. ✅
 
 🌟 Future Updates
-
 🔜 More advanced practice problems
-
 🔜 Mini projects using Core Java
 
 🤝 Contributing
 
 Contributions are welcome! 🎉
 If you have suggestions or improvements, feel free to fork this repo and create a pull request.
-
-📬 Connect With Me
-
-🌐 LinkedIn
-
-🐙 GitHub
 
 ✨ "Code, Practice, and Keep Growing" ✨
