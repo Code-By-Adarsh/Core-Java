@@ -5,6 +5,7 @@ public class Ch3_Fibonacci_Series {
         //Fibonacci Series: 0 1 1 2 3 5 8 13 21
         ArrayList<Integer> answer = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
+        System.out.println("\n----------------------My Solution---------------------------\n");
         while (true){
             System.out.print("Enter length of series of Fibonacci: ");
             int user = sc.nextInt();
@@ -29,7 +30,7 @@ public class Ch3_Fibonacci_Series {
             }
         }
         sc.close();
-        System.out.println("\n-------------------Bookish Solution----------------------------");
+        System.out.println("\n\n-------------------Bookish Solution----------------------------\n");
         int n = 10, num1 = 0, num2 = 1;
         System.out.print("Fibonacci Series: " + num1 + ", " + num2);
         for (int i = 2; i < n; i++) {
