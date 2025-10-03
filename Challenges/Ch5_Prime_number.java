@@ -10,7 +10,7 @@ public class Ch5_Prime_number {
             return;
         }
         boolean isPrime = true;
-        for (int i=2; i<Math.sqrt(a); i++){
+        for (int i=2; i<=Math.sqrt(a); i++){
             if (a % i == 0){
                 isPrime = false;
                 break;
