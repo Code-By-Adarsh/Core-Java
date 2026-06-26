@@ -1,6 +1,6 @@
 # 🚀 Core Java Concepts & Practice Repository
 
-Welcome to my **Core Java Repository!** ✨  
+Welcome to Chapter11_AbstractClassesAndInterfaces.my **Core Java Repository!** ✨  
 This repository contains all the Java concepts, programs, and practice exercises I’ve learned and implemented while building a strong foundation in Java. 💻☕
 
 ---
@@ -19,7 +19,7 @@ This repository contains all the Java concepts, programs, and practice exercises
 - ✔️ **Variables & Data Types**  
 - ✔️ **Control Statements** (`if-else`, `switch`, loops)  
 - ✔️ **OOPs Concepts** 🔑  
-- ✔️ **Constructors & Methods**  
+- ✔️ **Constructors & Chapter7_Methods.Methods**  
 - ✔️ **Arrays & Strings**  
 - ✔️ **Exception Handling** ⚠️  
 - ✔️ **Java Collections Framework**  
@@ -32,7 +32,7 @@ This repository contains all the Java concepts, programs, and practice exercises
 
 This repository is created to:  
 
-- 📘 Document my **Java learning journey**.  
+- 📘 Document Chapter11_AbstractClassesAndInterfaces.my **Java learning journey**.  
 - 🧑‍💻 **Practice & improve coding skills**.  
 - 🤝 **Share with others** who are also learning Java.  
 

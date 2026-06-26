@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Advanced Java Practice Set" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 1-Variables and datatypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 10-Inheritence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 11-Abstract Classes and Interfaces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 12-Package" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 13-Multithreading" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 14-Errors and Exceptions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 2-Operators and Expressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 3-Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 4-Conditions in Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 5-Loops Controls Instruction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 6-Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 7-Methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 8-Introduction to OOPs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 9-Access Modifiers and Constructor" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter2_OperatorsAndExpressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project 2 - Mini RPS Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project 3-Number Guess Game" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project 4-Online Library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project 5-Custom Calculator with Exception features" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Project 6 - Library Manaagement System" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - Annotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - Anonymous Classes and Lambda Expression" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - ArrayDeque(Demo and Methods)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - ArrayList (Demo and methods)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - Date And Calendar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - File Handling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - HashSet(Demo and Methods)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - Java Generic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - Javadoc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - LinkedList(Demo and Methods)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topic - Time API" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
