@@ -23,9 +23,9 @@ public class Precendence_and_associate {
         //post and pre increment and decrement
         int m = 2;
         ++m;
-        System.out.println(m);
+        System.out.println(m); //3
         int n = 2;
-        n++;
-        System.out.println(n);
+        System.out.println(n++); //2
+        System.out.println(n); //3
     }
 }
