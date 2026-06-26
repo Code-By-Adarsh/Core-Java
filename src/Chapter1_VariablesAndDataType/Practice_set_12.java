@@ -18,8 +18,8 @@ public class Practice_set_12 {
         int b1 = sc.nextInt();
         System.out.print("Enter your 3rd Subject Marks:");
         int c1 = sc.nextInt();
-        double answer1 = ((a1 + b1 + c1)/300.0)*10;
-        System.out.println("Your CGPA is:"+answer1);
+        double answer1 = ((a1 + b1 + c1)/300.0)/100;
+        System.out.println("Your Percentage is:"+answer1);
         System.out.println("-------------------------");
 
         //Question 3
