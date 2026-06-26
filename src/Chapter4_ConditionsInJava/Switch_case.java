@@ -30,7 +30,6 @@ public class Switch_case {
                 break;
             default:
                 System.out.println("Please enter valid day.");
-
         }
     }
 }
